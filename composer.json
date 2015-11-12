@@ -1,0 +1,13 @@
+{
+    "name": "decorator/php",
+    "description": "Decorator CSS preprocessor\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[P\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alan Museljic",
+            "email": "alanmuseljic@outlook.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
